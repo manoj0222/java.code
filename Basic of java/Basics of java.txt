@@ -1,0 +1,50 @@
+Java:-
+java is an object oriented programming language which is used to perform
+Specific task 
+
+Features of java:-
+1)OOP's
+2)Multi-Threading
+3)Exceptional Handling
+4)Generics and Lambda Experssions
+5)Enum Class
+
+*Java is platform in independent(But not 100% Because JVM is platform dependent)
+*Applications:-Android,Hibernate,etc.......
+
+Every in java is written inside the class
+
+Class:-
+       It  is Blue-print of Object (or) It is non-primitive datatype which 
+	   Usually Describes about the Object.
+Object:-
+       Anything which are have physical apperance in nature is called as Object.
+	   Every Object has Two things 1)Properties/States
+	                               2)Behaviours/Methods
+		 Suppose we take Headphones(Accessoris)
+		              #{Color,Brand} properties
+					  #{Switch off,Switchon,Pause}Methods
+					  
+object Syntax:- classname referencevariable = new Classname();
+					  
+Basic Programm:-
+  class Basic  {
+      Public static void main(String{[] args){
+        System.out.println("Hello World");
+        }
+     }		
+  					  
+Jdk:- it represents java development kit
+     It is software which internal Contain Tools
+	 
+Jre:- It reprents Java Runtime Environment
+      It provide Envoirment for developing the programms
+	  
+JVM:- It is represent java virtual machine	[logical unit]  
+					  
+					  
+					  
+					  
+					  
+					  
+					  
